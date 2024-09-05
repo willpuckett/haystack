@@ -1,4 +1,6 @@
-# README
+# Haystack
+
+![Haystack](static/logo.png)
 
 ## Project
 
